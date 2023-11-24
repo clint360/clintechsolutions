@@ -22,7 +22,7 @@ const NavBrand = () => {
               fontWeight: "bold",
               display: "flex"
             }}
-            >Clin<span style={{color: "green"}}>Tech</span>
+            >Clin<span style={{color: "lightgreen"}}>Tech</span>
             </div>
           </div>
         </Link>
