@@ -1,6 +1,3 @@
-Certainly! Here's the modified Markdown code:
-
-```markdown
 # Clintech Solutions - Website
 ![thumbnail](https://s3-alpha.figma.com/hub/file/1870323428/50478157-f9a1-4b4b-b5ef-2ffd37ac5792-cover.png)
 
