@@ -1,8 +1,8 @@
 # Clintech Solutions - Website
-![thumbnail](https://s3-alpha.figma.com/hub/file/1870323428/50478157-f9a1-4b4b-b5ef-2ffd37ac5792-cover.png)
+![thumbnail](blob:https://vercel.com/07051e62-e5f7-4309-bc67-df6fa8d1fb15)
 
 <p align="center">
-  <a href="https://collosal.vercel.app/">Demo Page</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://clintechsolutions.vercel.app/">Demo Page</a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.figma.com/community/file/1061303456713302684">Figma Link</a>&nbsp;&nbsp;&nbsp;
 </p>
 
